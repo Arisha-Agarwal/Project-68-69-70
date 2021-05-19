@@ -1,0 +1,326 @@
+body{
+    text-align:center;
+    color:black;
+}
+#Name{
+    background-color:lawngreen;
+    padding-top:50px;
+}
+.sections{
+    display:inline;
+    color:black;
+    font-family:monospace;
+    font-size:22px;
+    margin-left:15px;
+    margin-right:15px;
+}
+.sections:hover{
+    background-color:pink;
+}
+.menu{
+    background-color:yellow;
+    height:30px;
+    width:100%;
+    position:fixed;
+}
+#amity{
+    height:400px;
+    width:450px;
+    border-color:aquamarine;
+    border-width:10px;
+    border-style:groove;
+    padding:15px;
+}
+#website{
+    font-size:60px;
+    color:black;
+    font-family:cursive;
+}
+#map{
+    width:100%;
+    height:700px;
+}
+#Contact{
+    background-color:orange;
+}
+#principal{
+    color:green;
+    font-weight:bold;
+    font-family:cursive;
+    font-size:60px;
+}
+.line{
+    background-color:black;
+    width:100px;
+    height:10px;
+    margin:8px auto;
+}
+#ImgPrincipal{
+    height:300px;
+    width:350px;
+    border-color:greenyellow;
+    border-width:10px;
+    border-style:dashed;
+    padding:15px;
+}
+#Pname{
+    color:black;
+    font-size:45px;
+    font-weight:bold;
+}
+.contact{
+    font-size:30px;
+    color:red;
+    font-weight:bold;
+}
+#SectionHeadings{
+    color:deepskyblue;
+    font-weight:bold;
+    font-family:'Reggae One', cursive;
+    font-size:60px; 
+}
+#marquee{
+    font-size:25px;
+    color:black;
+    font-weight:bold;
+}
+#school{
+    font-size:50px; 
+    font-family:"Sofia", sans-serif; 
+    color:red;
+}
+#imgA{
+    height:300px;
+    width:350px;
+    border-color:pink;
+    border-width:10px;
+    padding:15px;
+    border-style:solid;
+    background-color:aliceblue;
+}
+#Infrastructure{
+    background-color:darksalmon;
+}
+.kbd{
+    background-color:yellow;
+    font-size:35px;
+    color:white;
+    border-radius:5px;
+}
+#AText{
+    font-style:oblique;
+    font-size:20px;
+    color:black;
+    font-weight:bold;
+     font-style:oblique;
+        margin-left:25px;
+    margin-right:25px;
+    background-color:aliceblue;
+    
+}
+.image{
+    display:flex;
+    justify-content:center;
+}
+.all{
+      margin-left:25px;
+    margin-right:25px;
+}
+#imgB{
+    height:300px;
+    width:350px;
+    border-color:pink;
+    border-width:10px;
+    padding:15px;
+    border-style:solid;
+    margin-left:160px;
+    background-color:aliceblue;
+}
+.kbda{
+     background-color:yellow;
+    font-size:35px;
+    color:white;
+    border-radius:5px;
+    margin-left:160px;
+}
+#ABText{
+   font-size:20px;
+    color:black;
+     font-style:oblique;
+    font-weight:bold;
+        margin-left:175px;
+    margin-right:25px; 
+      background-color:aliceblue;
+}
+#imgC{
+    height:300px;
+    width:350px;
+    border-color:pink;
+    border-width:10px;
+    padding:15px;
+    border-style:solid;
+    margin-left:140px;
+}
+.kbdb{
+     background-color:yellow;
+    font-size:35px;
+    color:white;
+    border-radius:5px;
+    margin-left:140px;
+}
+#ACText{
+   font-size:20px;
+    color:black;
+     font-style:oblique;
+    font-weight:bold;
+        margin-left:175px;
+    margin-right:25px; 
+      background-color:aliceblue;
+}
+#imgD{
+    height:300px;
+    width:350px;
+    border-color:pink;
+    border-width:10px;
+    padding:15px;
+    border-style:solid;
+    margin-right:10px;
+}
+.kbdc{
+     background-color:yellow;
+    font-size:35px;
+    color:white;
+    border-radius:5px;
+    margin-right: 10px;
+}
+#ADText{
+   font-size:20px;
+    color:black;
+    font-style:oblique;
+    font-weight:bold;
+        margin-left:45px;
+    margin-right:35px; 
+    background-color:aliceblue;
+}
+
+#imgE{
+    height:300px;
+    width:350px;
+    border-color:pink;
+    border-width:10px;
+    padding:15px;
+    border-style:solid;
+    margin-right:15px;
+}
+.kbdd{
+     background-color:yellow;
+    font-size:35px;
+    color:white;
+    border-radius:5px;
+    margin-right: 15px;
+}
+#AEText{
+   font-size:20px;
+    color:black;
+    font-style:oblique;
+    font-weight:bold;
+        margin-left:45px;
+    margin-right:75px; 
+    background-color:aliceblue;
+}
+#imgF{
+    height:300px;
+    width:350px;
+    border-color:pink;
+    border-width:10px;
+    padding:15px;
+    border-style:solid;
+    margin-right:15px;
+    margin-left:130px;
+}
+.kbde{
+     background-color:yellow;
+    font-size:35px;
+    color:white;
+    border-radius:5px;
+    margin-right: 15px;
+    margin-left:130px;
+}
+#AFText{
+   font-size:20px;
+    color:black;
+    font-style:oblique;
+    font-weight:bold;
+        margin-left:100px;
+    background-color:aliceblue;
+}
+#imgG{
+    height:300px;
+    width:350px;
+    border-color:pink;
+    border-width:10px;
+    padding:15px;
+    border-style:solid;
+    margin-right:15px;
+    margin-left:150px;
+}
+.kbdf{
+     background-color:yellow;
+    font-size:35px;
+    color:white;
+    border-radius:5px;
+    margin-right: 15px;
+    margin-left:150px;
+}
+#AGText{
+   font-size:20px;
+    color:black;
+    font-style:oblique;
+    font-weight:bold;
+        margin-left:100px;
+    background-color:aliceblue;
+}
+#Achievements{
+    background-color:paleturquoise;
+}
+.HeadingsAchievement{
+    color:darkorange;
+    font-size:50px;
+    
+}
+.AchText{
+    color:black;
+    font-size:30px;
+    font-family: 'Caveat', cursive;
+    font-weight:bold;
+}
+#AchievmentImages{
+    border-color:lightcoral;
+    border-style:ridge;
+    border-width:10px;
+    padding:15px;
+    height:400px;
+    width:500px;
+}
+#NewImg{
+    border-color:darkcyan;
+    border-width:15px;
+    border-style:solid;
+    padding:15px;
+    height:300px;
+    width:300px;
+}
+.NewHeadings{
+    font-size:60px;
+    font-family:"Sofia", sans-serif; 
+    color:red;
+}
+#Whats New{
+    background-color:plum;
+}
+.NewText{
+    color:black;
+    font-size:30px;
+    font-weight:bold;
+    font-style:oblique;
+}
